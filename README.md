@@ -15,9 +15,13 @@ I enjoy turning ideas into intelligent, working applications by combining Machin
 🧰 Tech Stack
 
 Languages: Python, C/C#
+
 AI/CV: OpenCV, CNN, NumPy, Pandas
+
 Backend: Flask
+
 Frontend: HTML, CSS, JavaScript
+
 Tools: Git, VS Code, Streamlit, Colab
 
 🌱 Currently Learning
