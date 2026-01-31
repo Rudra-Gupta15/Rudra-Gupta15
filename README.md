@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there 👋 I’m Rudra Gupta
 
-<!--
-**Rudra-Gupta15/Rudra-Gupta15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics Engineering undergraduate passionate about building real-world AI and software solutions.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into intelligent, working applications by combining Machine Learning, Computer Vision, and clean system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+
+🤖 Build ML & Computer Vision projects (Sign Language Recognition, Violence Detection)
+
+🧠 Work on practical AI systems that solve real problems
+
+🛠️ Develop end-to-end applications from logic → model → interface
+
+🧰 Tech Stack
+
+Languages: Python, C/C#
+AI/CV: OpenCV, CNN, NumPy, Pandas
+Backend: Flask
+Frontend: HTML, CSS, JavaScript
+Tools: Git, VS Code, Streamlit, Colab
+
+🌱 Currently Learning
+
+Advanced Deep Learning architectures
+
+Model optimization & deployment
+
+Full-stack integration of AI systems
+
+🔗 Portfolio
+
+🌐 https://rudraportfolio-five.vercel.app/
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/rudra-kumar-gupta/
+
+Email: kumarguptarudra15@gmail.com
