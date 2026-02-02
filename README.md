@@ -1,43 +1,21 @@
-Hi there 👋 I’m Rudra Gupta
+🚀 Rudra Gupta | Electronics & AI Engineer
+Bridging the gap between hardware logic and intelligent software.
+🎓 Education & Focus
+Major: Electronics Engineering Undergraduate
+Passion: Building real-world AI, Computer Vision, and end-to-end software solutions.
+Category,Tools & Technologies
+Languages,"Python, C, C#"
+AI & Computer Vision,"OpenCV, CNN, NumPy, Pandas"
+Web & Backend,"Flask, HTML5, CSS3, JavaScript"
+Dev Tools,"Git, VS Code, Streamlit, Google Colab"
+🧠 Core Competencies
+Computer Vision: Developing high-stakes models like Violence Detection and Sign Language Recognition.
+System Design: Designing applications from the ground up: Logic $\rightarrow$ Model $\rightarrow$ Interface.
+Deployment: Turning raw research into functional, user-facing applications.
+🌱 Current Evolution
+I am currently deep-diving into Advanced Deep Learning Architectures and focusing on Model Optimization to ensure AI systems are fast, efficient, and production-ready.
 
-🎓 Electronics Engineering undergraduate passionate about building real-world AI and software solutions.
-
-I enjoy turning ideas into intelligent, working applications by combining Machine Learning, Computer Vision, and clean system design.
-
-🚀 What I Do
-
-🤖 Build ML & Computer Vision projects (Sign Language Recognition, Violence Detection)
-
-🧠 Work on practical AI systems that solve real problems
-
-🛠️ Develop end-to-end applications from logic → model → interface
-
-🧰 Tech Stack
-
-Languages: Python, C/C#
-
-AI/CV: OpenCV, CNN, NumPy, Pandas
-
-Backend: Flask
-
-Frontend: HTML, CSS, JavaScript
-
-Tools: Git, VS Code, Streamlit, Colab
-
-🌱 Currently Learning
-
-Advanced Deep Learning architectures
-
-Model optimization & deployment
-
-Full-stack integration of AI systems
-
-🔗 Portfolio
-
-🌐 https://rudraportfolio-five.vercel.app/
-
-📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/rudra-kumar-gupta/
-
+🔗 Let's Connect
+Portfolio: rudraportfolio-five.vercel.app
+LinkedIn: in/rudra-kumar-gupta
 Email: kumarguptarudra15@gmail.com
