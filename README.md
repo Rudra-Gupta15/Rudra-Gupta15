@@ -27,6 +27,6 @@
 ---
 
 ### 🔗 Let's Connect
-* **Portfolio:** [rudraportfolio-five.vercel.app](https://rudraportfolio-five.vercel.app/)
+* **Portfolio:** [rudraportfolio-five.vercel.app](https://rudra-portfolio-liart.vercel.app/)
 * **LinkedIn:** [in/rudra-kumar-gupta](https://www.linkedin.com/in/rudra-kumar-gupta/)
 * **Email:** [kumarguptarudra15@gmail.com](mailto:kumarguptarudra15@gmail.com)
