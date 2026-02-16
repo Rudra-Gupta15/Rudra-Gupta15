@@ -117,7 +117,14 @@ mission: Building intelligent, efficient AI solutions
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Rudra-Gupta15&theme=radical&hide_border=true)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true)
 
 </div>
