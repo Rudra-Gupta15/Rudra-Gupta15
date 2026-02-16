@@ -117,20 +117,16 @@ mission: Building intelligent, efficient AI solutions
 
 <div align="center">
 
-<a href="https://github.com/Rudra-Gupta15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF&icon_color=00D9FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-<br>
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF)](https://github.com/Rudra-Gupta15)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true)
 
 </div>
 
