@@ -55,7 +55,7 @@ mission: Building intelligent, efficient AI solutions
   
 </div>
 
-
+---
 
 ## 🎓 Education & Focus
 
@@ -117,17 +117,13 @@ mission: Building intelligent, efficient AI solutions
 
 <div align="center">
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true)
 
 </div>
+
+---
 
 ## 🔥 Contribution Streak
 
