@@ -1,96 +1,40 @@
-# <div align="center">👨‍💻 Rudra Gupta | Electronics & AI Engineer</div>
+# 🚀 Rudra Gupta | Electronics & AI Engineer
+**Bridging the gap between hardware logic and intelligent software.**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+### 🎓 Education & Focus
+* **Major:** Electronics Engineering Undergraduate (Yeshwantrao Chavan College of Engineering, Nagpur)
+* **CGPA:** 8.42 | **Honors:** VLSI Design
+* **Passion:** Building real-world AI, Computer Vision, and end-to-end software solutions.
 
-<div align="center">
-  <a href="https://github.com/Aditya290605">
-    <img src="https://komarev.com/ghpvc/?username=Aditya290605&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Badge">
-  </a>
-  <a href="https://github.com/Aditya290605?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aditya290605?label=Followers&style=for-the-badge&color=blue" alt="Followers">
-  </a>
-  <a href="https://github.com/Aditya290605?tab=stars">
-    <img src="https://img.shields.io/github/stars/Aditya290605?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars">
-  </a>
-</div>
+### 🛠️ Technical Arsenal
 
-<br>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, HTML, CSS, SQL, C, C++ |
+| **AI & CV** | OpenCV, CNN, YOLOv8, TensorFlow/Keras, NumPy, Pandas |
+| **Web/Backend** | Flask, Tkinter, MySQL, Anaconda |
+| **Dev Tools** | Git, GitHub, VS Code, Arduino IDE, Colab, Unity Hub |
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+### 🧠 Core Competencies
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Bridging+Hardware+and+AI;Electronics+%7C+AI+%7C+Computer+Vision" alt="Typing SVG" />
-</div>
+* **Computer Vision:** Developing high-stakes models like *Sign Language Recognition* and *Violence Detection*.
+* **System Design:** Designing applications from the ground up: **Logic → Model → Interface**.
+* **Deep Learning:** CNNs, Object Detection (YOLOv8), Real-time Video Inference.
+* **Deployment:** Turning raw research into functional, user-facing applications with GUI integration.
 
-<br>
+### 🌱 Current Evolution
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-      </td>
-      <td width="50%" valign="top">
-        <h3>Hi there! I'm <a href="https://github.com/Aditya290605">Rudra Gupta</a> 👋</h3>
-        
-```yaml
-name: Rudra Gupta
-role: Electronics & AI Engineer
-expertise: 
-  - Computer Vision
-  - Deep Learning
-  - AI Applications
-  - System Design & Deployment
-currently_learning:
-  - Advanced Deep Learning Architectures
-  - Model Optimization
-  - MLOps & Production AI
-mission: Building intelligent, real-world AI solutions with efficient systems
-```
+> I am currently deep-diving into **Advanced Deep Learning Architectures** and focusing on **Model Optimization** to ensure AI systems are fast, efficient, and production-ready.
 
-**Quick Facts:**
-- 🔥 Passionate **electronics engineer** diving deep into **AI and Computer Vision**.
-- 💡 Exploring **advanced deep learning** to create **intelligent, production-ready systems**.
-- 🛠 Currently working on **AI models, CV applications, and system optimization**.
-- 🎯 Focus: **CNN, OpenCV, Model Deployment, and end-to-end AI solutions**.
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🎯 Welcome to My Profile
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 📊 Performance Metrics
+### Performance Metrics
 
 <table align="center">
   <tr>
@@ -107,162 +51,140 @@ mission: Building intelligent, real-world AI solutions with efficient systems
   </tr>
 </table>
 
-<br>
-
-### 📈 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya290605&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-<br>
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya290605&theme=radical&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
-
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Arsenal
+## 💼 Featured Projects
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,java&theme=dark" />
-</p>
+### 🎯 Active Projects
 
-<details open>
-<summary><b>🔍 Click to see proficiency levels</b></summary>
-<br>
+**[Sign Language Recognition System](#)** (2025-Present)
+* Real-time hand gesture recognition using OpenCV and deep learning
+* Integrated YOLOv8 and CNN models with prediction smoothing
+* Tkinter GUI with live video feed and sentence generation
+* **Status:** In Development
 
-| Language | Proficiency | Use Cases |
-|----------|-------------|-----------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | AI/ML, Backend, Computer Vision |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) | ⭐⭐⭐⭐ | Systems, Optimization |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐⭐ | Performance-Critical Applications |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐ | Web Development |
+**[Heart Disease Detection System](#)** (2026)
+* Machine learning model for heart disease prediction using medical datasets
+* Data preprocessing, feature selection, and model evaluation
+* User-friendly interface for prediction display
+* **Technologies:** Python, Scikit-learn, Pandas
 
-</details>
+**[Boondi Making Machine — Automation Project](#)** (2021-2022)
+* Industrial automation of food-processing machinery
+* Motor control, sensor integration, and timing logic
+* Focus on reliability and safety in production environment
 
-<br>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,opencv&theme=dark" />
-</p>
-
-<br>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase&theme=dark" />
-</p>
-
-<br>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,colab,linux&theme=dark" />
-</p>
-
-<br>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql&theme=dark" />
-</p>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-
-### 🎯 Signature Work
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Latest Work</h3>
-      <div align="center">
-        <a href="https://github.com/Aditya290605/ProjectName">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=ProjectName&theme=radical&hide_border=true" alt="Latest Project" />
-        </a>
-        <br><br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Innovation-00D9FF?style=for-the-badge" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⭐ Most Popular</h3>
-      <div align="center">
-        <a href="https://github.com/Aditya290605/ProjectOne">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=ProjectOne&theme=radical&hide_border=true" alt="Popular Project" />
-        </a>
-        <br><br>
-        <a href="https://github.com/Aditya290605/ProjectTwo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya290605&repo=ProjectTwo&theme=radical&hide_border=true" alt="Featured Project" />
-        </a>
-        <br><br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 💼 Project Categories
+### 💼 Core Competencies in Action
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
-      <br><b>AI & ML Models</b>
-      <br><sub>Deep Learning Solutions</sub>
-    </td>
-    <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/machine-vision.png" width="50"/>
       <br><b>Computer Vision</b>
-      <br><sub>Image Processing & Detection</sub>
+      <br><sub>Real-time Detection & Recognition</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
+      <br><b>Deep Learning</b>
+      <br><sub>CNNs, YOLOv8, Neural Networks</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/api.png" width="50"/>
-      <br><b>Production Systems</b>
-      <br><sub>Deployment & Optimization</sub>
+      <br><b>System Design</b>
+      <br><sub>End-to-End Solutions</sub>
     </td>
   </tr>
 </table>
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/gJv7K7xs9ziGbNT9ZR/giphy.gif" width="30"> What I'm Learning
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-### 📚 Current Learning Path
+### Professional Certifications
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🤖 AI For All Program</b><br>
+      <sub>Intel & Digital India</sub><br>
+      ✅ AI Aware (Feb 2026)<br>
+      ✅ AI Appreciate (Feb 2026)
+    </td>
+    <td align="center" width="50%">
+      <b>📊 Data Structures & Algorithms</b><br>
+      <sub>Great Learning Academy</sub><br>
+      ✅ C++ Certification (Mar 2024)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🛩️ Glider Making Workshop</b><br>
+      <sub>Yeshwantrao Chavan College</sub><br>
+      ✅ Certificate of Participation<br>
+      <sub>Aeromodelling Club (Avion)</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>🐍 Python 3.4.3 Training</b><br>
+      <sub>Spoken Tutorial Project, IIT Bombay</sub><br>
+      ✅ Certification Completed<br>
+      ✅ Score: 65%
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🎨 Drawing Competition</b><br>
+      <sub>Kalasparsh Art Club</sub><br>
+      ✅ Active Participation<br>
+      <sub>YCCE Technical Fest</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>⚡ FPGA Timings (STA)</b><br>
+      <sub>Udemy - Vivado 2024</sub><br>
+      ✅ Static Timing Analysis<br>
+      <sub>5 hours comprehensive training</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Experience
+
+<div align="center">
+
+### Current Role
+
+**AIML Intern** — Prevoyance IT Solutions Pvt. Ltd. (2026 – Present)
+* Real-time computer vision projects (Sign Language Recognition, Violence Detection)
+* Deep learning model implementation using CNN, YOLOv8, OpenCV
+* Dataset preprocessing, model evaluation, and GUI integration
+
+### Previous Experience
+
+**Electronics Intern** — Raj Food Machine (2021-2022)
+* Industrial food-processing machinery automation
+* Sensor integration, motor control, and automation logic
+* Hands-on electronics hardware and control panel experience
+
+</div>
+
+---
+
+## 🌱 What I'm Learning
+
+<div align="center">
+
+### 📚 Current Focus Areas
 
 <table>
   <tr>
@@ -271,66 +193,97 @@ mission: Building intelligent, real-world AI solutions with efficient systems
       <sub><b>Advanced Architectures</b></sub>
     </td>
     <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br>
+      <sub><b>Model Optimization</b></sub>
+    </td>
+    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br>
-      <sub><b>Model Deployment</b></sub>
+      <sub><b>Production Deployment</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" /><br>
-      <sub><b>Cloud Infrastructure</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /><br>
-      <sub><b>MLOps</b></sub>
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" /><br>
+      <sub><b>Version Control</b></sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+### 🎯 Goals for 2026
 
-<br><br>
-
-### 🎯 2026 Goals
-
-- [ ] Publish research papers on AI/Computer Vision
-- [ ] Build 10+ production AI applications
-- [ ] Contribute to 15+ open source AI/ML projects
-- [ ] Master state-of-the-art deep learning architectures
-- [ ] Deploy models on edge devices (TensorFlow Lite, ONNX)
-- [ ] Create impactful AI solutions solving real-world problems
+- [ ] Complete advanced deep learning specialization
+- [ ] Deploy 5+ production AI/CV models
+- [ ] Contribute to 10+ open source AI projects
+- [ ] Publish technical blog posts on CV techniques
+- [ ] Master edge device deployment (TensorFlow Lite, ONNX)
 - [ ] Build custom deep learning frameworks
+- [ ] Create impactful AI solutions for real-world problems
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📫 Reach Out To Me
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,sql&theme=dark" />
+</p>
+
+### AI & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter&theme=dark" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,arduino,linux&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### Reach Out To Me
 
 <p>
   <a href="https://www.linkedin.com/in/rudra-kumar-gupta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kumarguptarudra15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/Aditya290605" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub">
+  <a href="https://github.com/Rudra-Gupta15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://rudra-portfolio-liart.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white&style=flat-square" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
+</p>
+
+<br>
+
+### 📞 Contact Information
+
+<p>
+  <img src="https://img.shields.io/badge/Phone-9075569787-25C2A0?style=flat-square&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/Email-kumarguptarudra15@gmail.com-D14836?style=flat-square&logo=gmail" />
+  <img src="https://img.shields.io/badge/Location-Nagpur,India-FF6B6B?style=flat-square&logo=googlemaps" />
 </p>
 
 <br>
@@ -340,10 +293,10 @@ mission: Building intelligent, real-world AI solutions with efficient systems
 <p>
   <img src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20Applications-009688?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Model%20Optimization-00D9FF?style=flat-square&logo=speedtest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-System%20Design-FF9900?style=flat-square&logo=systemdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20Source-3DDC84?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CNN%20Models-009688?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YOLOv8-00D9FF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Real%20Time%20Detection-FF9900?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI%20Integration-3DDC84?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <br>
@@ -362,49 +315,35 @@ mission: Building intelligent, real-world AI solutions with efficient systems
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/internship.png"/><br>
-      <b>Research Projects</b>
+      <b>Internships</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/puzzle-matching.png"/><br>
-      <b>AI Solutions</b>
+      <b>Research</b>
     </td>
   </tr>
 </table>
 
 </div>
 
-<br>
+---
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<div align="center">
-
-## Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/212284087-818a3f9c-a9ce-4601-a696-9924e6ef8a6d.gif" width="30px" alt="waving hand">
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Thanks for Visiting">
-
-<br><br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+systems;Always+learning%2C+always+improving;Turning+ideas+into+AI+reality;One+model+at+a+time)
-
-<br>
+### Profile Statistics
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Built%20with-Passion-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Rudra-Gupta15&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Rudra-Gupta15?label=Followers&style=for-the-badge&color=blue" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Rudra-Gupta15?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars">
 </p>
 
 <br>
 
 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
 
-<br>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
