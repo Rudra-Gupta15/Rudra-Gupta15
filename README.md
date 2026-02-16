@@ -113,47 +113,47 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-### 💻 GitHub Stats & Activity
-
-<table border="0" cellpadding="0" cellspacing="20">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-### 🔥 Contribution & Streak
-
-<table border="0" cellpadding="0" cellspacing="20">
-  <tr>
-    <td width="100%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff" alt="Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-### 📈 Repository Statistics
-
-<table border="0" cellpadding="0" cellspacing="20">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" alt="Repos by Language" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra-Gupta15&theme=radical" alt="Profile Details" width="100%" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Rudra-Gupta15">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF&icon_color=00D9FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" />
+</a>
 
 </div>
+
+<br>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF)](https://github.com/Rudra-Gupta15)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🎮 Sign Language Recognition System (2025-Present)
+* Real-time hand gesture recognition using **OpenCV** and **Deep Learning**
+* Integrated **YOLOv8** and **CNN** models with prediction smoothing
+* **Tkinter GUI** with live video feed and sentence generation
+* **Status:** 🟢 In Development
+
+### ❤️ Heart Disease Detection System (2026)
+* ML model for disease prediction using medical datasets
+* Data preprocessing, feature selection, and model evaluation
+* User-friendly prediction interface
+* **Tech Stack:** Python, Scikit-learn, Pandas
+
+### ⚙️ Boondi Making Machine — Automation Project (2021-2022)
+* Industrial automation of food-processing machinery
+* Motor control, sensor integration, and timing logic
+* Focus on reliability and safety
 
 ---
 
@@ -175,6 +175,19 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
+## 💼 Experience
+
+### 🚀 AIML Intern — Prevoyance IT Solutions Pvt. Ltd. (2026 – Present)
+* Real-time computer vision projects (Sign Language Recognition, Violence Detection)
+* Deep learning implementation using CNN, YOLOv8, OpenCV
+* Dataset preprocessing, model evaluation, and GUI integration
+
+### ⚙️ Electronics Intern — Raj Food Machine (2021-2022)
+* Industrial food-processing machinery automation
+* Sensor integration, motor control, automation logic
+* Hands-on electronics hardware and control panel experience
+
+---
 
 ## 🌱 What I'm Learning
 
