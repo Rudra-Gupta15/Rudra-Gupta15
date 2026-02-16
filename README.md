@@ -1,31 +1,61 @@
 # 🚀 Rudra Gupta | Electronics & AI Engineer
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Welcome Banner" />
+  🎮 <b>Welcome to My Profile</b> 🎮
 </div>
 
+<br>
+
 <div align="center">
-  <h2>Hi, I'm Rudra 👋</h2>
-  <p><b>Bridging Hardware Logic & Intelligent AI</b></p>
+  <table border="1" cellpadding="20" cellspacing="0">
+    <tr>
+      <td width="40%" align="center" valign="top">
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Pixel Art">
+      </td>
+      <td width="60%" valign="top">
+        <h2>Hi there! I'm <b>@Rudra Gupta</b> 👋</h2>
+        
+```yaml
+name: Rudra Gupta
+role: Electronics & AI Engineer
+expertise:
+  - Computer Vision
+  - Deep Learning (CNN, YOLOv8)
+  - Real-time AI Systems
+  - System Design & Deployment
+currently_learning:
+  - Advanced Deep Learning Architectures
+  - Model Optimization
+  - Production AI Systems
+mission: Building intelligent, efficient AI solutions
+```
+
+<b>Quick Facts:</b>
+
+🔥 A passionate **electronics engineer** diving deep into **AI and Computer Vision**.
+
+💡 Building real-time **deep learning models** for practical applications like **Sign Language Recognition** and **Violence Detection**.
+
+🛠️ Currently working on **AI/CV projects** at Prevoyance IT Solutions with **CNN, YOLOv8, and OpenCV**.
+
+🎯 Focus: **Computer Vision → Deep Learning → Real-time Inference → Production Deployment**.
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
   
   ![Visitors](https://komarev.com/ghpvc/?username=Rudra-Gupta15&color=brightgreen&style=flat)
   ![GitHub followers](https://img.shields.io/github/followers/Rudra-Gupta15?label=Followers&style=flat)
   ![GitHub stars](https://img.shields.io/github/stars/Rudra-Gupta15?label=Stars&style=flat)
+  
 </div>
 
----
 
-## 📋 Overview
-
-<div align="center">
-
-I'm a passionate **Electronics Engineer** diving deep into **AI and Computer Vision**. I build real-world AI solutions, from deep learning models to production-ready applications. Currently working as an AIML Intern at Prevoyance IT Solutions, focusing on sign language recognition and violence detection systems.
-
-**📍 Location:** Nagpur, India | **📞 Phone:** 9075569787 | **📧 Email:** kumarguptarudra15@gmail.com
-
-</div>
-
----
 
 ## 🎓 Education & Focus
 
@@ -39,36 +69,36 @@ I'm a passionate **Electronics Engineer** diving deep into **AI and Computer Vis
 
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+### 🔤 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logoColor=white)
+### 🤖 AI & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=white)
 
-### Web & Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=flat&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+### 🌐 Web & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -83,25 +113,42 @@ I'm a passionate **Electronics Engineer** diving deep into **AI and Computer Vis
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<table>
+### 💻 GitHub Stats & Activity
+
+<table border="0" cellpadding="0" cellspacing="20">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff" alt="Top Languages" width="100%" />
     </td>
   </tr>
+</table>
+
+### 🔥 Contribution & Streak
+
+<table border="0" cellpadding="0" cellspacing="20">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=dark&hide_border=true" alt="Streak Stats" />
+    <td width="100%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff" alt="Streak Stats" width="100%" />
     </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=dark" alt="Repos by Language" />
+  </tr>
+</table>
+
+### 📈 Repository Statistics
+
+<table border="0" cellpadding="0" cellspacing="20">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" alt="Repos by Language" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra-Gupta15&theme=radical" alt="Profile Details" width="100%" />
     </td>
   </tr>
 </table>
