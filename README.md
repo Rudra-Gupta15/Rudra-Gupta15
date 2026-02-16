@@ -8,21 +8,21 @@
 * **CGPA:** 8.42 | **Honors:** VLSI Design
 * **Passion:** Building real-world AI, Computer Vision, and end-to-end software solutions.
 
-### 🛠️ Technical Arsenal
+### 🎮 INVENTORY - Technical Arsenal
 
-| Category | Tools & Technologies |
+| 🎯 CATEGORY | 🔧 TOOLS & TECHNOLOGIES |
 | :--- | :--- |
-| **Languages** | Python, HTML, CSS, SQL, C, C++ |
-| **AI & CV** | OpenCV, CNN, YOLOv8, TensorFlow/Keras, NumPy, Pandas |
-| **Web/Backend** | Flask, Tkinter, MySQL, Anaconda |
-| **Dev Tools** | Git, GitHub, VS Code, Arduino IDE, Colab, Unity Hub |
+| **💻 Languages** | Python, HTML, CSS, SQL, C, C++ |
+| **🤖 AI & Computer Vision** | OpenCV, CNN, YOLOv8, TensorFlow/Keras, NumPy, Pandas |
+| **🌐 Web/Backend** | Flask, Tkinter, MySQL, Anaconda |
+| **⚙️ Dev Tools** | Git, GitHub, VS Code, Arduino IDE, Colab, Unity Hub |
 
-### 🧠 Core Competencies
+### 🎯 SPECIAL ABILITIES & SKILLS
 
-* **Computer Vision:** Developing high-stakes models like *Sign Language Recognition* and *Violence Detection*.
-* **System Design:** Designing applications from the ground up: **Logic → Model → Interface**.
-* **Deep Learning:** CNNs, Object Detection (YOLOv8), Real-time Video Inference.
-* **Deployment:** Turning raw research into functional, user-facing applications with GUI integration.
+* **🎮 Computer Vision Quest:** Developing high-stakes models like *Sign Language Recognition* and *Violence Detection*.
+* **⚙️ System Architecture Mastery:** Designing end-to-end applications: **Logic → Model → Interface**.
+* **🧠 Deep Learning Expertise:** CNNs, Object Detection (YOLOv8), Real-time Video Inference.
+* **🚀 Deployment Pro:** Turning raw research into functional, user-facing applications with GUI integration.
 
 ### 🌱 Current Evolution
 
@@ -30,10 +30,22 @@
 
 ---
 
-## 🎯 Welcome to My Profile
+## 🎮 Welcome to My Gaming Hub
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=👋+Welcome+to+My+Profile;⚡+Electronics+%7C+AI+%7C+Computer+Vision" alt="Welcome" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" alt="Pixel Art Welcome">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎮+WELCOME+TO+MY+PROFILE;⚡+Electronics+%7C+AI+%7C+Computer+Vision;🔥+Let's+Level+Up+Together" alt="Welcome" />
 </div>
 
 <br>
@@ -42,36 +54,52 @@
   <table border="0">
     <tr>
       <td width="40%" valign="top">
-        <p><b>Hi there! I'm Rudra Gupta 👋</b></p>
+        <p><b>🎯 Hi Player! I'm Rudra Gupta 👾</b></p>
         
 ```yaml
-name: Rudra Gupta
-role: Electronics & AI Engineer
-expertise:
-  - Computer Vision
-  - Deep Learning (CNN, YOLOv8)
-  - Real-time AI Systems
-  - System Design & Deployment
-currently_learning:
-  - Advanced Deep Learning
-  - Model Optimization
-  - Production AI Systems
-mission: Building intelligent, efficient AI solutions
+╔════════════════════════════════════╗
+║     PLAYER PROFILE STATUS          ║
+╠════════════════════════════════════╣
+║ Name: Rudra Gupta                  ║
+║ Level: Electronics & AI Engineer   ║
+║ Experience: ████████░░ 80%         ║
+║                                    ║
+║ SPECIAL ABILITIES:                 ║
+║  🖥️  Computer Vision Master        ║
+║  🧠 Deep Learning Wizard           ║
+║  ⚡ Real-time Detection Expert    ║
+║  🎯 System Design Architect        ║
+║                                    ║
+║ CURRENTLY LEARNING:                ║
+║  🔷 Advanced Deep Learning         ║
+║  🔷 Model Optimization             ║
+║  🔷 Production AI Systems          ║
+╚════════════════════════════════════╝
 ```
       </td>
       <td width="60%" valign="top">
-        <b>Quick Facts:</b>
+        <b>⚡ PLAYER STATS:</b>
         <br><br>
-        🔥 Passionate <b>electronics engineer</b> diving into <b>AI and Computer Vision</b>.
+        🔥 **Level:** Passionate Electronics Engineer diving into AI & Computer Vision
         <br><br>
-        💡 Building real-time <b>deep learning models</b> for practical applications like <b>Sign Language Recognition</b> and <b>Violence Detection</b>.
+        💡 **Quest:** Building real-time deep learning models for Sign Language Recognition & Violence Detection
         <br><br>
-        🛠 Currently working on <b>AI/CV projects</b> at Prevoyance IT Solutions with <b>CNN, YOLOv8, and OpenCV</b>.
+        🛠️ **Current Mission:** AI/CV Projects at Prevoyance IT Solutions
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tech Stack: CNN • YOLOv8 • OpenCV • TensorFlow
         <br><br>
-        🎯 Focus: <b>Computer Vision, Deep Learning, Real-time Inference, and Production Deployment</b>.
+        🎯 **Focus:** Computer Vision → Deep Learning → Real-time Inference → Deployment
+        <br><br>
+        🏆 **Achievement:** Building intelligent, efficient AI solutions
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
 </div>
 
 <br>
@@ -105,47 +133,47 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 💼 Featured Projects
+## 🎮 QUEST LOG - Featured Projects
 
 <div align="center">
 
-### 🎯 Active Projects
+### 🏆 ACTIVE MISSIONS
 
-**[Sign Language Recognition System](#)** (2025-Present)
-* Real-time hand gesture recognition using OpenCV and deep learning
-* Integrated YOLOv8 and CNN models with prediction smoothing
-* Tkinter GUI with live video feed and sentence generation
-* **Status:** In Development
+**[🎮 QUEST #1: Sign Language Recognition System](#)** (2025-Present)
+* 🎯 Real-time hand gesture recognition using OpenCV and deep learning
+* 🤖 Integrated YOLOv8 and CNN models with prediction smoothing
+* 🖥️ Tkinter GUI with live video feed and sentence generation
+* **Status:** 🟢 In Development - Boss Battle Incoming!
 
-**[Heart Disease Detection System](#)** (2026)
-* Machine learning model for heart disease prediction using medical datasets
-* Data preprocessing, feature selection, and model evaluation
-* User-friendly interface for prediction display
-* **Technologies:** Python, Scikit-learn, Pandas
+**[❤️ QUEST #2: Heart Disease Detection System](#)** (2026)
+* 🏥 ML model for heart disease prediction using medical datasets
+* 📊 Data preprocessing, feature selection, and model evaluation
+* 🎯 User-friendly interface for prediction display
+* **Tech Stack:** Python, Scikit-learn, Pandas
 
-**[Boondi Making Machine — Automation Project](#)** (2021-2022)
-* Industrial automation of food-processing machinery
-* Motor control, sensor integration, and timing logic
-* Focus on reliability and safety in production environment
+**[⚙️ QUEST #3: Boondi Making Machine — Automation Project](#)** (2021-2022)
+* 🤖 Industrial automation of food-processing machinery
+* ⚡ Motor control, sensor integration, and timing logic
+* 🔧 Focus on reliability and safety in production environment
 
-### 💼 Core Competencies in Action
+### 💪 POWER-UPS UNLOCKED
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/machine-vision.png" width="50"/>
-      <br><b>Computer Vision</b>
-      <br><sub>Real-time Detection & Recognition</sub>
+      <br><b>🎥 Vision Master</b>
+      <br><sub>Real-time Detection</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
-      <br><b>Deep Learning</b>
-      <br><sub>CNNs, YOLOv8, Neural Networks</sub>
+      <br><b>🧠 AI Wizard</b>
+      <br><sub>Neural Networks</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/000000/api.png" width="50"/>
-      <br><b>System Design</b>
-      <br><sub>End-to-End Solutions</sub>
+      <br><b>🏗️ Architect</b>
+      <br><sub>System Design</sub>
     </td>
   </tr>
 </table>
@@ -154,11 +182,11 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏅 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-### Professional Certifications
+### 🎖️ BADGES & CERTIFICATES
 
 <table>
   <tr>
@@ -208,66 +236,66 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 🎓 Experience
+## 👔 CAREER PATH - Experience
 
 <div align="center">
 
-### Current Role
+### 🎮 CURRENT QUEST
 
-**AIML Intern** — Prevoyance IT Solutions Pvt. Ltd. (2026 – Present)
-* Real-time computer vision projects (Sign Language Recognition, Violence Detection)
-* Deep learning model implementation using CNN, YOLOv8, OpenCV
-* Dataset preprocessing, model evaluation, and GUI integration
+**🚀 AIML Intern** — Prevoyance IT Solutions Pvt. Ltd. (2026 – Present)
+* 🎯 Real-time computer vision projects (Sign Language Recognition, Violence Detection)
+* 🤖 Deep learning model implementation using CNN, YOLOv8, OpenCV
+* 📊 Dataset preprocessing, model evaluation, and GUI integration
 
-### Previous Experience
+### 📜 PREVIOUS ACHIEVEMENTS
 
-**Electronics Intern** — Raj Food Machine (2021-2022)
-* Industrial food-processing machinery automation
-* Sensor integration, motor control, and automation logic
-* Hands-on electronics hardware and control panel experience
+**⚙️ Electronics Intern** — Raj Food Machine (2021-2022)
+* 🔧 Industrial food-processing machinery automation
+* 🌐 Sensor integration, motor control, and automation logic
+* 💻 Hands-on electronics hardware and control panel experience
 
 </div>
 
 ---
 
-## 🌱 What I'm Learning
+## 📖 SKILL TREE - What I'm Learning
 
 <div align="center">
 
-### 📚 Current Focus Areas
+### 🎮 CURRENT SKILL UPGRADES
 
 <table>
   <tr>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /><br>
-      <sub><b>Advanced Architectures</b></sub>
+      <sub><b>⚡ Neural Nets</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br>
-      <sub><b>Model Optimization</b></sub>
+      <sub><b>🔧 Optimization</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br>
-      <sub><b>Production Deployment</b></sub>
+      <sub><b>🚀 Deployment</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" /><br>
-      <sub><b>Version Control</b></sub>
+      <sub><b>📦 Version Control</b></sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-### 🎯 Goals for 2026
+### 🏆 2026 LEVEL UP GOALS
 
-- [ ] Complete advanced deep learning specialization
-- [ ] Deploy 5+ production AI/CV models
-- [ ] Contribute to 10+ open source AI projects
-- [ ] Publish technical blog posts on CV techniques
-- [ ] Master edge device deployment (TensorFlow Lite, ONNX)
-- [ ] Build custom deep learning frameworks
-- [ ] Create impactful AI solutions for real-world problems
+- [ ] 🎓 Complete advanced deep learning specialization
+- [ ] 🚀 Deploy 5+ production AI/CV models
+- [ ] 🤝 Contribute to 10+ open source AI projects
+- [ ] 📰 Publish technical blog posts on CV techniques
+- [ ] 📱 Master edge device deployment (TensorFlow Lite, ONNX)
+- [ ] 🔨 Build custom deep learning frameworks
+- [ ] 🌍 Create impactful AI solutions for real-world problems
 
 </div>
 
@@ -305,11 +333,11 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 📫 Let's Connect
+## 🎮 MULTIPLAYER MODE - Let's Connect
 
 <div align="center">
 
-### Reach Out To Me
+### 🕹️ FIND ME ON THE NETWORK
 
 <p>
   <a href="https://www.linkedin.com/in/rudra-kumar-gupta/" target="_blank">
@@ -328,48 +356,48 @@ mission: Building intelligent, efficient AI solutions
 
 <br>
 
-### 📞 Contact Information
+### 📞 PLAYER CONTACT INFO
 
 <p>
-  <img src="https://img.shields.io/badge/Phone-9075569787-25C2A0?style=flat-square&logo=whatsapp" />
-  <img src="https://img.shields.io/badge/Email-kumarguptarudra15@gmail.com-D14836?style=flat-square&logo=gmail" />
-  <img src="https://img.shields.io/badge/Location-Nagpur,India-FF6B6B?style=flat-square&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/📱_Phone-9075569787-25C2A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/💌_Email-kumarguptarudra15@gmail.com-D14836?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Location-Nagpur,India-FF6B6B?style=flat-square" />
 </p>
 
 <br>
 
-### 💬 Ask Me About
+### 💬 TALK TO ME ABOUT
 
 <p>
-  <img src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CNN%20Models-009688?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-YOLOv8-00D9FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Real%20Time%20Detection-FF9900?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20Integration-3DDC84?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-👀_Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🧠_Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🤖_CNN_Models-009688?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-⚡_YOLOv8-00D9FF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🎯_Real_Time_Detection-FF9900?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🚀_AI_Integration-3DDC84?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <br>
 
-### 💼 Open For
+### 🤝 TEAM UP FOR
 
 <table>
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/collaboration.png"/><br>
-      <b>Collaborations</b>
+      <b>⚔️ Collaborations</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/open-source.png"/><br>
-      <b>Open Source</b>
+      <b>🌐 Open Source</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/internship.png"/><br>
-      <b>Internships</b>
+      <b>🎓 Internships</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/puzzle-matching.png"/><br>
-      <b>Research</b>
+      <b>🔬 Research</b>
     </td>
   </tr>
 </table>
