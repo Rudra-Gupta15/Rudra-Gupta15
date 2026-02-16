@@ -30,6 +30,56 @@
 
 ---
 
+## 🎯 Welcome to My Profile
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=👋+Welcome+to+My+Profile;⚡+Electronics+%7C+AI+%7C+Computer+Vision" alt="Welcome" />
+</div>
+
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="40%" valign="top">
+        <p><b>Hi there! I'm Rudra Gupta 👋</b></p>
+        
+```yaml
+name: Rudra Gupta
+role: Electronics & AI Engineer
+expertise:
+  - Computer Vision
+  - Deep Learning (CNN, YOLOv8)
+  - Real-time AI Systems
+  - System Design & Deployment
+currently_learning:
+  - Advanced Deep Learning
+  - Model Optimization
+  - Production AI Systems
+mission: Building intelligent, efficient AI solutions
+```
+      </td>
+      <td width="60%" valign="top">
+        <b>Quick Facts:</b>
+        <br><br>
+        🔥 Passionate <b>electronics engineer</b> diving into <b>AI and Computer Vision</b>.
+        <br><br>
+        💡 Building real-time <b>deep learning models</b> for practical applications like <b>Sign Language Recognition</b> and <b>Violence Detection</b>.
+        <br><br>
+        🛠 Currently working on <b>AI/CV projects</b> at Prevoyance IT Solutions with <b>CNN, YOLOv8, and OpenCV</b>.
+        <br><br>
+        🎯 Focus: <b>Computer Vision, Deep Learning, Real-time Inference, and Production Deployment</b>.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
