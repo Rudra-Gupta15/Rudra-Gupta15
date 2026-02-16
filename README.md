@@ -157,27 +157,6 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 💼 Featured Projects
-
-### 🎮 Sign Language Recognition System (2025-Present)
-* Real-time hand gesture recognition using **OpenCV** and **Deep Learning**
-* Integrated **YOLOv8** and **CNN** models with prediction smoothing
-* **Tkinter GUI** with live video feed and sentence generation
-* **Status:** 🟢 In Development
-
-### ❤️ Heart Disease Detection System (2026)
-* ML model for disease prediction using medical datasets
-* Data preprocessing, feature selection, and model evaluation
-* User-friendly prediction interface
-* **Tech Stack:** Python, Scikit-learn, Pandas
-
-### ⚙️ Boondi Making Machine — Automation Project (2021-2022)
-* Industrial automation of food-processing machinery
-* Motor control, sensor integration, and timing logic
-* Focus on reliability and safety
-
----
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -196,19 +175,6 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 💼 Experience
-
-### 🚀 AIML Intern — Prevoyance IT Solutions Pvt. Ltd. (2026 – Present)
-* Real-time computer vision projects (Sign Language Recognition, Violence Detection)
-* Deep learning implementation using CNN, YOLOv8, OpenCV
-* Dataset preprocessing, model evaluation, and GUI integration
-
-### ⚙️ Electronics Intern — Raj Food Machine (2021-2022)
-* Industrial food-processing machinery automation
-* Sensor integration, motor control, automation logic
-* Hands-on electronics hardware and control panel experience
-
----
 
 ## 🌱 What I'm Learning
 
