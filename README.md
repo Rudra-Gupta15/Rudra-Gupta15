@@ -33,8 +33,9 @@ currently_learning:
   - Production AI Systems
 mission: Building intelligent, efficient AI solutions
 ```
-      </td>
-    </tr>
+    Game Enthusiast:
+      Use : Unity, C#
+    
   </table>
 </div>
 
@@ -42,9 +43,9 @@ mission: Building intelligent, efficient AI solutions
 
 ## 🔥 About Me
 
-A passionate **electronics engineer** diving deep into **AI and Computer Vision**. I build real-time **deep learning models** for practical applications like **Sign Language Recognition** and **Violence Detection**. Currently working on **AI/CV projects** with **CNN, YOLOv8, and OpenCV**.
+A passionate **electronics engineer** diving deep into **AI and Computer Vision**. I build real-time **deep learning models** for practical applications like **Sign Language Recognition** and **Violence Detection**. Currently working on **AI/CV projects** with **CNN, YOLOv8, and OpenCV**. Also a **game enthusiast** exploring game development with Unity and C#.
 
-**My Focus:** Computer Vision → Deep Learning → Real-time Inference → Production Deployment
+**My Focus:** Computer Vision → Deep Learning → Real-time Inference → Production Deployment | Game Development
 
 ---
 
@@ -58,12 +59,18 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Interests
+
+### 🎮 Game Enthusiast
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game%20Development-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### 🔤 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -82,6 +89,7 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -171,7 +179,7 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudra-Gupta15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://rudra-portfolio-liart.vercel.app/)
 
-****📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
+**📞 Phone:** 9075569787 | **📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
 
 </div>
 
