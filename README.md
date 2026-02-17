@@ -145,9 +145,9 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 | 🤖 **AI For All - AI Appreciate** | Intel & Digital India | Feb 2026 |
 | 🤖 **AI For All - AI Aware** | Intel & Digital India | Feb 2026 |
 | 📊 **Data Structures & Algorithms C++** | Great Learning Academy | Mar 2024 |
-| 🛩️ **Glider Making Workshop** | Yeshwantrao Chavan College | 2024 |
+| 🛩️ **Glider Making Workshop** | Yeshwantrao Chavan College | 2022 |
 | 🐍 **Python 3.4.3 Training** | Spoken Tutorial Project, IIT Bombay | Score: 65% |
-| 🎨 **Drawing Competition** | Kalasparsh Art Club, YCCE | 2024 |
+| 🎨 **Drawing Competition** | Kalasparsh Art Club, YCCE | 2023 |
 | ⚡ **FPGA Timings (STA) - Vivado 2024** | Udemy | 5 hours |
 
 ---
@@ -179,7 +179,7 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudra-Gupta15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://rudra-portfolio-liart.vercel.app/)
 
-**📞 Phone:** 9075569787 | **📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
+**📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
 
 </div>
 
