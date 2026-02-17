@@ -10,8 +10,15 @@
 
 <br>
 
-## 👋 Hi there! I'm **@Rudra Gupta**
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="40%" align="center" valign="top">
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Pixel Art">
+      </td>
+      <td width="60%" valign="top">
+        <h2>👋 Hi there! I'm <b>@Rudra Gupta</b></h2>
+        
 ```yaml
 name: Rudra Gupta
 role: Electronics & AI Engineer
@@ -26,6 +33,10 @@ currently_learning:
   - Production AI Systems
 mission: Building intelligent, efficient AI solutions
 ```
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -98,9 +109,9 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true)](https://github.com/Rudra-Gupta15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&theme=radical&hide_border=true&layout=compact)](https://github.com/Rudra-Gupta15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
