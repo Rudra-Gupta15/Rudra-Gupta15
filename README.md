@@ -111,16 +111,17 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true&size=small" width="100%" />
+    <td width="25%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true" width="100%" style="max-height:200px" />
     </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" width="100%" />
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rudra-Gupta15&theme=radical" width="100%" style="max-height:200px" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudra-Gupta15&theme=radical" width="100%" />
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" width="100%" style="max-height:200px" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudra-Gupta15&theme=radical" width="100%" style="max-height:200px" />
     </td>
   </tr>
 </table>
