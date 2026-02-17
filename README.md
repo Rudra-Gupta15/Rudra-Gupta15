@@ -105,14 +105,21 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true)](https://github.com/Rudra-Gupta15)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&theme=radical&hide_border=true&layout=compact)
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra-Gupta15&theme=radical" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudra-Gupta15&theme=radical" width="48%" />
 </div>
 
 ---
