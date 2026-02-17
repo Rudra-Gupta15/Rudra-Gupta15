@@ -171,7 +171,7 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudra-Gupta15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://rudra-portfolio-liart.vercel.app/)
 
-**📞 Phone:** 9075569787 | **📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
+****📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
 
 </div>
 
