@@ -105,30 +105,25 @@ A passionate **electronics engineer** diving deep into **AI and Computer Vision*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true)](https://github.com/Rudra-Gupta15)
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudra-Gupta15&theme=radical" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudra-Gupta15&theme=radical" width="48%" />
-</div>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true)](https://github.com/Rudra-Gupta15)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Gupta15&theme=radical&hide_border=true&size=small" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudra-Gupta15&theme=radical" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rudra-Gupta15&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
