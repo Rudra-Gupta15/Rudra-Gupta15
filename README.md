@@ -1,20 +1,17 @@
 # 🚀 Rudra Gupta | Electronics & AI Engineer
 
 <div align="center">
-  🎮 <b>Welcome to My Profile</b> 🎮
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Rudra-Gupta15&color=brightgreen&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/Rudra-Gupta15?label=Followers&style=flat-square&color=blue)
+  ![GitHub stars](https://img.shields.io/github/stars/Rudra-Gupta15?label=Stars&style=flat-square&color=yellow)
+
 </div>
 
 <br>
 
-<div align="center">
-  <table border="1" cellpadding="20" cellspacing="0">
-    <tr>
-      <td width="40%" align="center" valign="top">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Pixel Art">
-      </td>
-      <td width="60%" valign="top">
-        <h2>Hi there! I'm <b>@Rudra Gupta</b> 👋</h2>
-        
+## 👋 Hi there! I'm **@Rudra Gupta**
+
 ```yaml
 name: Rudra Gupta
 role: Electronics & AI Engineer
@@ -30,44 +27,27 @@ currently_learning:
 mission: Building intelligent, efficient AI solutions
 ```
 
-<b>Quick Facts:</b>
+---
 
-🔥 A passionate **electronics engineer** diving deep into **AI and Computer Vision**.
+## 🔥 About Me
 
-💡 Building real-time **deep learning models** for practical applications like **Sign Language Recognition** and **Violence Detection**.
+A passionate **electronics engineer** diving deep into **AI and Computer Vision**. I build real-time **deep learning models** for practical applications like **Sign Language Recognition** and **Violence Detection**. Currently working on **AI/CV projects** with **CNN, YOLOv8, and OpenCV**.
 
-🛠️ Currently working on **AI/CV projects** at Prevoyance IT Solutions with **CNN, YOLOv8, and OpenCV**.
-
-🎯 Focus: **Computer Vision → Deep Learning → Real-time Inference → Production Deployment**.
-
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=Rudra-Gupta15&color=brightgreen&style=flat)
-  ![GitHub followers](https://img.shields.io/github/followers/Rudra-Gupta15?label=Followers&style=flat)
-  ![GitHub stars](https://img.shields.io/github/stars/Rudra-Gupta15?label=Stars&style=flat)
-  
-</div>
+**My Focus:** Computer Vision → Deep Learning → Real-time Inference → Production Deployment
 
 ---
 
-## 🎓 Education & Focus
+## 🎓 Education & Background
 
-* **Major:** Electronics Engineering Undergraduate (Yeshwantrao Chavan College of Engineering, Nagpur)
-* **CGPA:** 8.42 | **Honors:** VLSI Design
-* **Passion:** Building real-world AI, Computer Vision, and end-to-end software solutions.
+* **Major:** Electronics Engineering Undergraduate
+* **Institution:** Yeshwantrao Chavan College of Engineering, Nagpur
+* **CGPA:** 8.42
+* **Honors:** VLSI Design
+* **Passion:** Building real-world AI, Computer Vision, and end-to-end software solutions
 
 ---
 
-## 💻 Technology Stack 🚀
-
-<div align="center">
+## 💻 Tech Stack
 
 ### 🔤 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -100,32 +80,33 @@ mission: Building intelligent, efficient AI solutions
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-</div>
-
 ---
 
 ## 🧠 Core Competencies
 
-* **🎥 Computer Vision:** Developing high-stakes models like *Sign Language Recognition* and *Violence Detection*.
-* **🤖 Deep Learning:** CNNs, YOLOv8, Real-time Video Inference, Neural Networks.
-* **⚙️ System Design:** Building end-to-end applications from **Logic → Model → Interface**.
-* **🚀 Deployment:** Turning research into production-ready applications with GUI integration.
+**🎥 Computer Vision:** Developing high-stakes models like Sign Language Recognition and Violence Detection
+
+**🤖 Deep Learning:** CNNs, YOLOv8, Real-time Video Inference, Neural Networks
+
+**⚙️ System Design:** Building end-to-end applications from Logic → Model → Interface
+
+**🚀 Deployment:** Turning research into production-ready applications with GUI integration
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra-Gupta15&show_icons=true&theme=radical&hide_border=true)](https://github.com/Rudra-Gupta15)
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Gupta15&theme=radical&hide_border=true&layout=compact)](https://github.com/Rudra-Gupta15)
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
@@ -135,30 +116,7 @@ mission: Building intelligent, efficient AI solutions
 
 ---
 
-## 💼 Featured Projects
-
-### 🎮 Sign Language Recognition System (2025-Present)
-* Real-time hand gesture recognition using **OpenCV** and **Deep Learning**
-* Integrated **YOLOv8** and **CNN** models with prediction smoothing
-* **Tkinter GUI** with live video feed and sentence generation
-* **Status:** 🟢 In Development
-
-### ❤️ Heart Disease Detection System (2026)
-* ML model for disease prediction using medical datasets
-* Data preprocessing, feature selection, and model evaluation
-* User-friendly prediction interface
-* **Tech Stack:** Python, Scikit-learn, Pandas
-
-### ⚙️ Boondi Making Machine — Automation Project (2021-2022)
-* Industrial automation of food-processing machinery
-* Motor control, sensor integration, and timing logic
-* Focus on reliability and safety
-
----
-
 ## 🏆 Certifications & Achievements
-
-<div align="center">
 
 | 🎖️ Achievement | 📜 Certificate | 📅 Date |
 |---|---|---|
@@ -170,22 +128,6 @@ mission: Building intelligent, efficient AI solutions
 | 🎨 **Drawing Competition** | Kalasparsh Art Club, YCCE | 2024 |
 | ⚡ **FPGA Timings (STA) - Vivado 2024** | Udemy | 5 hours |
 
-</div>
-
----
-
-## 💼 Experience
-
-### 🚀 AIML Intern — Prevoyance IT Solutions Pvt. Ltd. (2026 – Present)
-* Real-time computer vision projects (Sign Language Recognition, Violence Detection)
-* Deep learning implementation using CNN, YOLOv8, OpenCV
-* Dataset preprocessing, model evaluation, and GUI integration
-
-### ⚙️ Electronics Intern — Raj Food Machine (2021-2022)
-* Industrial food-processing machinery automation
-* Sensor integration, motor control, automation logic
-* Hands-on electronics hardware and control panel experience
-
 ---
 
 ## 🌱 What I'm Learning
@@ -195,7 +137,8 @@ mission: Building intelligent, efficient AI solutions
 * 🚀 Production AI Systems & MLOps
 * 📱 Edge Device Deployment (TensorFlow Lite, ONNX)
 
-### 2026 Goals
+### 🎯 2026 Goals
+
 - [ ] Deploy 5+ production AI/CV models
 - [ ] Contribute to 10+ open source AI projects
 - [ ] Publish technical blog posts on CV
@@ -216,16 +159,47 @@ mission: Building intelligent, efficient AI solutions
 
 **📞 Phone:** 9075569787 | **📧 Email:** kumarguptarudra15@gmail.com | **📍 Nagpur, India**
 
-<br>
-
-### Let's build something amazing together! 🚀
-
 </div>
 
 ---
 
+## 💬 Ask Me About
+
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![CNN](https://img.shields.io/badge/-CNN-FF0000?style=flat-square&logo=keras&logoColor=white)
+![Real-time AI](https://img.shields.io/badge/-Real%20time%20AI-009688?style=flat-square&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 💼 Open For
+
+| 🤝 Collaborations | 🔓 Open Source | 🎓 Internships | 💻 Freelance Work |
+|---|---|---|---|
+| Building AI projects together | Contributing to AI/CV projects | Learning & growing with teams | AI/CV consulting & development |
+
+---
+
+## 📈 Featured Work
+
+I'm actively working on Computer Vision and Deep Learning projects. Check out my repositories for:
+- Real-time AI models
+- Sign Language Recognition systems
+- Violence Detection applications
+- End-to-end AI solutions
+
+---
+
 <div align="center">
-  
-  **Made with ❤️ by Rudra Gupta**
-  
+
+### Let's build something amazing together! 🚀
+
+**Made with ❤️ by Rudra Gupta**
+
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Built with Passion](https://img.shields.io/badge/Built%20with-Passion-FF1744?style=flat-square&logoColor=white)
+
 </div>
