@@ -2,7 +2,9 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rudra-Gupta15&color=brightgreen&style=flat-square)
+  ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=handshake&logoColor=white)
+  ![Coding Since](https://img.shields.io/badge/Coding%20Since-2024-blue?style=flat-square&logo=github&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Building%20Cool%20Stuff-blueviolet?style=flat-square&logo=rocket&logoColor=white)
   ![GitHub followers](https://img.shields.io/github/followers/Rudra-Gupta15?label=Followers&style=flat-square&color=blue)
   ![GitHub stars](https://img.shields.io/github/stars/Rudra-Gupta15?label=Stars&style=flat-square&color=yellow)
 
