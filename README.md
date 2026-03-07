@@ -16,7 +16,7 @@
   <table border="0">
     <tr>
       <td width="40%" align="center" valign="top">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="Pixel Art">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" alt="AI">
       </td>
       <td width="60%" valign="top">
         <h2>👋 Hi there! I'm <b>@Rudra Gupta</b></h2>
@@ -34,10 +34,9 @@ currently_learning:
   - Model Optimization
   - Production AI Systems
 mission: Building intelligent, efficient AI solutions
-```
-    Game Enthusiast:
+Game Enthusiast:
       Use : Unity, C#
-    
+```    
   </table>
 </div>
 
